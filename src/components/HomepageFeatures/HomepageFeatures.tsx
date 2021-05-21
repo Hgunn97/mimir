@@ -1,21 +1,12 @@
 import React from 'react';
 import clsx from 'clsx';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import './HomepageFeatures.styles.scss';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    icon: '/img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your
-        website up and running quickly.
-      </>
-    )
-  },
-  {
-    title: 'Focus on What Matters',
-    icon: '/img/undraw_docusaurus_tree.svg',
+    title: 'Exercise Ideas',
+    icon: '/img/undraw_working_out.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your
@@ -24,8 +15,18 @@ const FeatureList = [
     )
   },
   {
-    title: 'Powered by React',
-    icon: '/static/img/undraw_docusaurus_react.svg',
+    title: 'Wide Range of Recipes',
+    icon: '/img/undraw_barbecue.svg',
+    description: (
+      <>
+        Docusaurus was designed from the ground up to be easily installed and used to get your
+        website up and running quickly.
+      </>
+    )
+  },
+  {
+    title: 'Even more to come!',
+    icon: '/static/img/undraw_under_construction.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can be extended while
@@ -39,7 +40,7 @@ function Feature({ icon, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img className="featureSvg" src={icon} alt={title} />
+        <img className="featureSvg" src={useBaseUrl(icon)} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

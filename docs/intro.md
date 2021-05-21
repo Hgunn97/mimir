@@ -2,34 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Mimir Overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Mimir was chosen as the name for this project as he is the God of knowledge and wisdom.
+I hope to create a site that contains a number of resources to help improve at least the
+knowledge part.  
 
-## Getting Started
+The site currently contains useful resources for cooking and exercising.  
+Hopefully more coming soon!
 
-Get started by **creating a new site**.
+## Cooking
+To access recipes and other cooking resources select the dropdown next to cooking in the menu
+and select the resource you want to access.  
+Alternatively [click here](Cooking/Introduction) 
+to access the first resource.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+## Exercise
+To access resources for exercising select the dropdown next to exercise in the menu
+and select the resource you want to access.  
+Alternatively [click here](Exercise/Introduction)
