@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Mimir',
   tagline: 'God of knowledge and wisdom',
-  url: 'http://localhost:3000/',
+  url: 'https://hgunn97.github.io/mimir',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

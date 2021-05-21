@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Even more to come!',
-    icon: '/static/img/undraw_under_construction.svg',
+    icon: '/img/undraw_under_construction.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can be extended while
