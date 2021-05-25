@@ -69,7 +69,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} Mimir, Inc. Built with Docusaurus.`
     }
   },
   plugins: ['docusaurus-plugin-sass'],
