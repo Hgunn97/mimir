@@ -9,3 +9,6 @@ But for now all the recipes will just be displayed underneath this entry.
 
 Currently the recipes are:
 - [Salmon Sushi Bowl](salmon-sushi-bowl)
+- [Sticky Chicken with Mango Couscous](sticky-chicken-with-mango-couscous)
+- [Creamy Garlic Prawn Pasta](creamy-garlic-prawn-pasta)
+- [Butternut Squash Risotto](butternut-squash-risotto)
